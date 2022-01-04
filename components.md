@@ -10,3 +10,10 @@
 
 # State and Props in class components
 
+
+<img width="371" alt="j8- state and props" src="https://user-images.githubusercontent.com/24316133/148056577-ef654fcb-8fc4-4d8e-acc0-efba18e9694a.png">
+
+
+<img width="368" alt="j9-props" src="https://user-images.githubusercontent.com/24316133/148056576-53a27f09-2ca3-4c59-aef4-742b7ab4b419.png">
+
+
