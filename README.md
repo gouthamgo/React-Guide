@@ -1,4 +1,4 @@
-# React-Study Guide
+# React-Study Guide with code snippets
 
 * React is a javascript library for building user interfraces
 
